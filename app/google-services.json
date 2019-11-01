@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "174455291207",
+    "firebase_url": "https://lastfireapp.firebaseio.com",
+    "project_id": "lastfireapp",
+    "storage_bucket": "lastfireapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174455291207:android:dc743738bb0888f935e062",
+        "android_client_info": {
+          "package_name": "com.example.lastfireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174455291207-vbaleohlic6rrgc05bjbjh72r7m5b9h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lastfireapp",
+            "certificate_hash": "00f6aacf91c3fa07a9035e10050566ac8fdfa3e0"
+          }
+        },
+        {
+          "client_id": "174455291207-ko6vcva79tna1ld9d5aftgq8noodbdd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgDMrhiMwMa5PBLEdZh07PTfYxaLq56R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174455291207-ko6vcva79tna1ld9d5aftgq8noodbdd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
